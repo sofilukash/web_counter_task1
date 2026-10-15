@@ -1,0 +1,32 @@
+In-memory counter — wall flame graph
+10 клієнтів × 10000 запитів · py-spy 100 Гц · 1748 семплів (відкинуто 21116 простою за конструкцією)
+
+Усього семплів (без простою за конструкцією): 1748
+
+ВКЛЮЧНО (частка семплів, де функція є в стеку; службові кадри потоків/socketserver не показано):
+    96.6%  handle_one_request (http/server.py)
+    83.4%  _reply (app/server.py)
+    81.5%  do_GET (app/server.py)
+    74.6%  write (socketserver.py)
+    48.2%  end_headers (http/server.py)
+    47.1%  flush_headers (http/server.py)
+    10.1%  parse_request (http/server.py)
+     6.4%  _parse_header_lines (http/client.py)
+     6.4%  parse_headers (http/client.py)
+     5.9%  parse (email/parser.py)
+     5.3%  parsestr (email/parser.py)
+     4.9%  send_response (http/server.py)
+
+ВЛАСНИЙ ЧАС (частка семплів, де функція - кінець стеку - «де час витрачається насправді»):
+    74.6%  write (socketserver.py)
+     3.6%  parse_request (http/server.py)
+     2.5%  format_datetime (email/utils.py)
+     2.1%  formatdate (email/utils.py)
+     1.8%  handle_one_request (http/server.py)
+     1.1%  send_response_only (http/server.py)
+     1.1%  _parsegen (email/feedparser.py)
+     1.1%  push (email/feedparser.py)
+     1.1%  parse (email/parser.py)
+     1.1%  _parse_header_lines (http/client.py)
+     0.9%  _parse_headers (email/feedparser.py)
+     0.9%  __init__ (email/feedparser.py)

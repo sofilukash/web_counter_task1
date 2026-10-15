@@ -1,0 +1,32 @@
+Disk counter — wall flame graph
+10 клієнтів × 10000 запитів · py-spy 100 Гц · 203881 семплів (відкинуто 26515 простою за конструкцією)
+
+Усього семплів (без простою за конструкцією): 203881
+
+ВКЛЮЧНО (частка семплів, де функція є в стеку; службові кадри потоків/socketserver не показано):
+    99.9%  handle_one_request (http/server.py)
+    99.6%  do_GET (app/server.py)
+    98.6%  inc (app/counters.py)
+     8.9%  _write (app/counters.py)
+     0.9%  _reply (app/server.py)
+     0.7%  write (socketserver.py)
+     0.6%  end_headers (http/server.py)
+     0.6%  flush_headers (http/server.py)
+     0.3%  parse_request (http/server.py)
+     0.2%  parsestr (email/parser.py)
+     0.2%  parse (email/parser.py)
+     0.2%  parse_headers (http/client.py)
+
+ВЛАСНИЙ ЧАС (частка семплів, де функція - кінець стеку - «де час витрачається насправді»):
+    89.6%  inc (app/counters.py)
+     8.9%  _write (app/counters.py)
+     0.7%  write (socketserver.py)
+     0.1%  _read (app/counters.py)
+     0.1%  parse_request (http/server.py)
+     0.1%  handle_one_request (http/server.py)
+     0.0%  _parsegen (email/feedparser.py)
+     0.0%  format_datetime (email/utils.py)
+     0.0%  formatdate (email/utils.py)
+     0.0%  _parse_headers (email/feedparser.py)
+     0.0%  _parse_header_lines (http/client.py)
+     0.0%  push (email/feedparser.py)

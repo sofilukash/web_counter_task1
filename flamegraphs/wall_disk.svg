@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1296pt" height="424.8pt" viewBox="0 0 1296 424.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T04:16:54.018838</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 424.8 
+L 1296 424.8 
+L 1296 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 25.92 420.552 
+L 1270.08 420.552 
+L 1270.08 396.859488 
+L 25.92 396.859488 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d4ab1c; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 25.968819 395.3472 
+L 1269.042595 395.3472 
+L 1269.042595 371.654688 
+L 25.968819 371.654688 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d44934; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 25.968819 370.1424 
+L 1269.042595 370.1424 
+L 1269.042595 346.449888 
+L 25.968819 346.449888 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d6c83b; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 25.968819 344.9376 
+L 1269.042595 344.9376 
+L 1269.042595 321.245088 
+L 25.968819 321.245088 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #e39e31; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 25.968819 319.7328 
+L 1269.042595 319.7328 
+L 1269.042595 296.040288 
+L 25.968819 296.040288 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #fe4a37; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 25.968819 294.528 
+L 1269.042595 294.528 
+L 1269.042595 270.835488 
+L 25.968819 270.835488 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #cf9d25; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 25.968819 269.3232 
+L 1269.042595 269.3232 
+L 1269.042595 245.630688 
+L 25.968819 245.630688 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #dfa337; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 25.968819 244.1184 
+L 1269.042595 244.1184 
+L 1269.042595 220.425888 
+L 25.968819 220.425888 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d7c219; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 25.968819 218.9136 
+L 1269.042595 218.9136 
+L 1269.042595 195.221088 
+L 25.968819 195.221088 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d1a837; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 25.968819 193.7088 
+L 1269.012083 193.7088 
+L 1269.012083 170.016288 
+L 25.968819 170.016288 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #da493b; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 1264.758722 168.504 
+L 1268.096725 168.504 
+L 1268.096725 144.811488 
+L 1264.758722 144.811488 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #cec939; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 1264.935691 143.2992 
+L 1267.108139 143.2992 
+L 1267.108139 119.606688 
+L 1264.935691 119.606688 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d1cc2c; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 25.968819 168.504 
+L 1264.758722 168.504 
+L 1264.758722 144.811488 
+L 25.968819 144.811488 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d8813a; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 37.307047 143.2992 
+L 1264.551241 143.2992 
+L 1264.551241 119.606688 
+L 37.307047 119.606688 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d6e430; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 39.162172 118.0944 
+L 149.468851 118.0944 
+L 149.468851 94.401888 
+L 39.162172 94.401888 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #e38e3a; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 25.968819 143.2992 
+L 37.123976 143.2992 
+L 37.123976 119.606688 
+L 25.968819 119.606688 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #eb422b; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 25.993229 118.0944 
+L 33.401522 118.0944 
+L 33.401522 94.401888 
+L 25.993229 94.401888 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #dbe216; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 26.023741 92.8896 
+L 33.163529 92.8896 
+L 33.163529 69.197088 
+L 26.023741 69.197088 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #e8652b; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 26.023741 67.6848 
+L 33.017072 67.6848 
+L 33.017072 43.992288 
+L 26.023741 43.992288 
+z
+" clip-path="url(#pa8fc85071f)" style="fill: #d16930; stroke: #ffffff; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.40832" y="411.043986" transform="rotate(-0 28.40832 411.043986)">all (100.0%)</text>
+    </g>
+   </g>
+   <g id="text_2">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="385.839186" transform="rotate(-0 28.457139 385.839186)">_bootstrap (threading.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_3">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="360.634386" transform="rotate(-0 28.457139 360.634386)">_bootstrap_inner (threading.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_4">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="335.429586" transform="rotate(-0 28.457139 335.429586)">run (threading.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_5">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="310.224786" transform="rotate(-0 28.457139 310.224786)">process_request_thread (socketserver.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_6">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="285.019986" transform="rotate(-0 28.457139 285.019986)">finish_request (socketserver.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_7">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="259.815186" transform="rotate(-0 28.457139 259.815186)">__init__ (__init__) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_8">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="234.610386" transform="rotate(-0 28.457139 234.610386)">__init__ (socketserver.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_9">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="209.405586" transform="rotate(-0 28.457139 209.405586)">handle (http/server.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_10">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="184.200786" transform="rotate(-0 28.457139 184.200786)">handle_one_request (http/server.py) (99.9%)</text>
+    </g>
+   </g>
+   <g id="text_11">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="28.457139" y="158.995986" transform="rotate(-0 28.457139 158.995986)">do_GET (app/server.py) (99.6%)</text>
+    </g>
+   </g>
+   <g id="text_12">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="39.795367" y="133.791186" transform="rotate(-0 39.795367 133.791186)">inc (app/counters.py) (98.6%)</text>
+    </g>
+   </g>
+   <g id="text_13">
+    <g clip-path="url(#pa8fc85071f)">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start" x="41.650492" y="108.586386" transform="rotate(-0 41.650492 108.586386)">_write (app/counter…</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="648" y="14.125969" transform="rotate(-0 648 14.125969)">Disk counter — wall flame graph</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #555555" x="648" y="25.488" transform="rotate(-0 648 25.488)">10 клієнтів × 10000 запитів · py-spy 100 Гц · 203881 семплів (відкинуто 26515 простою за конструкцією)</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa8fc85071f">
+   <rect x="25.92" y="42.48" width="1244.16" height="378.072"/>
+  </clipPath>
+ </defs>
+</svg>
